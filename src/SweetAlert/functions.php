@@ -1,5 +1,7 @@
 <?php
 
+// test comment
+
 if (!function_exists('alert')) {
 
     /**
