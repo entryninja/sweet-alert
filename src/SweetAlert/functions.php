@@ -1,6 +1,6 @@
 <?php
 
-// test comment
+// test comment v2.0
 
 if (!function_exists('alert')) {
 
